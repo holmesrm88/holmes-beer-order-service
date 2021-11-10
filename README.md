@@ -1,4 +1,4 @@
-
+[![CircleCI](https://circleci.com/gh/holmesrm88/holmes-beer-order-service/tree/main.svg?style=svg)](https://circleci.com/gh/holmesrm88/holmes-beer-order-service/tree/main)
 # MSSC Beer Order Service
 
 This repository contains source code examples used to support my on-line courses about the Spring Framework.
